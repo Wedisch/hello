@@ -1,5 +1,4 @@
-{
-  "validation": [
+[
     {
       "username": "vlad",
       "password": "vladileb"
@@ -8,5 +7,5 @@
       "username": "kate",
       "password": "katich"
     }
-  ]
-}
+ 
+[
