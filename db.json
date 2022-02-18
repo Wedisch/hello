@@ -1,16 +1,12 @@
 {
-  "posts":[
+  "validation": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "username": "vlad",
+      "password": "vladileb"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "username": "kate",
+      "password": "katich"
     }
   ]
 }
